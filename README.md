@@ -1,2 +1,2 @@
 # ToDoApp
-A basic to do App
+A basic To Do App
